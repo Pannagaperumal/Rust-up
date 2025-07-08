@@ -1,1 +1,4 @@
 /target
+auth_service/target/debug/
+.gitignore
+auth_service/target/
