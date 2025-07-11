@@ -2,3 +2,5 @@
 auth_service/target/debug/
 .gitignore
 auth_service/target/
+collections/target/
+guess_number/target/
